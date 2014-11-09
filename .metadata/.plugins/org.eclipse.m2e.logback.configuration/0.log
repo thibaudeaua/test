@@ -1,0 +1,10 @@
+2014-11-08 18:49:15,902 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/andrew/git/test/helloworld/pom.xml
+2014-11-08 18:49:16,901 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: test:helloworld:0.0.1-SNAPSHOT @ /home/andrew/git/test/helloworld/pom.xml.
+2014-11-08 18:49:17,542 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloworld/src/main/java
+2014-11-08 18:49:17,547 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /helloworld/src/test/java
+2014-11-08 18:49:18,411 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2014-11-08 18:49:18,589 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: test:helloworld:0.0.1-SNAPSHOT @ /home/andrew/git/test/helloworld/pom.xml.
+2014-11-08 18:49:19,523 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-08 18:49:19,523 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/andrew/git/test/helloworld/src/main/resources
+2014-11-08 18:49:19,526 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-08 18:49:19,527 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/andrew/git/test/helloworld/src/test/resources

@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+/home/andrew/git/test/.metadata/.plugins/org.eclipse.jdt.core
